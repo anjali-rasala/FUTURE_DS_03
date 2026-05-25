@@ -36,7 +36,7 @@ Analyze marketing funnel and campaign data to identify conversion patterns, cust
 
 ## Dashboard Preview
 
-()
+https://github.com/anjali-rasala/FUTURE_DS_03/blob/main/marketing%20dashboard.png
 
 ## Files Included
 
